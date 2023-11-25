@@ -1,0 +1,53 @@
+header{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr5YoX2JaQjuFdjd4vU87APWnjf_Bl8qMJYw&usqp=CAU); background-size: cover;
+    padding: 50px;
+    border-right: 0px;
+}
+h1{
+    color: #001913;
+    font-size: 50px;
+    font-style: italic;
+}
+.color{
+    background-color: #698b84;
+}
+
+img{
+    width: 500px;
+    size: 502px;
+}
+
+article{
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+article:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+}
+footer{
+    padding: 50px;
+    background-color: #001913;
+    
+}
+p{
+    position: relative;
+    font-size: 25px;
+    
+}
+span{
+    color: #698b84;
+    margin-right: 20px;
+}
+
+.footer{
+    position: absolute;
+    width: 800px;
+}
+.estilo1{
+    background-color: #698b84;
+}
+.estilo2{
+    background-color: #46655e;
+}
